@@ -13,4 +13,6 @@ I finished my M.S. in Computer and Information Sciences at Trine University in 2
 - [lakehouse-elt](https://github.com/Bharathgopalam/lakehouse-elt) – Bronze/Silver/Gold pipeline with DuckDB and Parquet
 - [job-tracker-api](https://github.com/Bharathgopalam/job-tracker-api) – FastAPI app I use to track my job applications
 
+Currently learning: Airflow and Databricks.
+
 📫 bharathkumargopalam1@gmail.com · [LinkedIn](https://linkedin.com/in/bharathkumargopalam)
